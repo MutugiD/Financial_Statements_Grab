@@ -1,0 +1,134 @@
+Profit & Loss,,,,
+Company 1,,,,
+,Oct 2020,Nov 2020,Variance ($),Variance (%)
+Revenue,,,,
+Gross Sales,"$2,923,746","$2,206,817","($716,929)",-24.52%
+Refunds,($701),"($2,349)","($1,648)",-235.31%
+Exit Traffic Income,"$184,687","$234,741","$50,054",27.1%
+Other income,$0,$8,$8,
+Capital Gain on Sale,$125,$50,($75),-60.0%
+Total Revenue,"$3,107,857","$2,439,267","($668,590)",-21.51%
+Cost of Sales,,,,
+Content and Usage Costs,,,,
+Content Costs,,,,
+MOVIES,"$13,333","$13,333",$0,0.0%
+MUSIC,"$10,333","$10,333",$0,0.0%
+GAMES,"$9,190","$9,190",$0,0.0%
+CONTENT USAGE,"$5,151","$3,093","($2,057)",-39.94%
+Total Content Costs,"$38,007","$35,950","($2,057)",-5.41%
+Total Content and Usage Costs,"$38,007","$35,950","($2,057)",-5.41%
+Consulting Costs,,,,
+CONSULTING,"$30,228","$23,984","($6,244)",-20.66%
+Advertisement Costs,,,,
+Advert.-Amazon (AWS),$2,$2,($0),-1.15%
+Software Expenses,,,,
+Software - Fraud Prevention - Alto,"$66,580","$49,140","($17,440)",-26.19%
+Software - Fraud Prevention - Ethoca,"$56,318","$76,650","$20,333",36.1%
+Software - Fraud Prevention - Other,"$10,929","$10,598",($331),-3.02%
+Software - General,"$26,713","$25,938",($775),-2.9%
+Software - HR,"$1,888","$1,877",($11),-0.56%
+Software - Reporting & Analysis,"$25,435","$25,525",$89,0.35%
+Software -Marketing,"$10,680","$10,680",$0,0.0%
+Total Software Expenses,"$198,543","$200,408","$1,865",0.94%
+Servers Expenses,,,,
+WEBSITES,$817,"$1,059",$242,29.58%
+DOMAIN NAMES,"$29,780","$33,615","$3,835",12.88%
+SERVERS - AMAZON,"$204,936","$199,331","($5,605)",-2.74%
+SERVERS - REFLECTED,"$33,802","$33,940",$137,0.41%
+SERVERS - GENERAL,"$7,101","$7,101",$0,0.0%
+Total Servers Expenses,"$276,437","$275,046","($1,391)",-0.5%
+Contractor Costs,"$135,420","$136,916","$1,496",1.1%
+Total Cost of Sales,"$678,637","$672,305","($6,332)",-0.93%
+Gross Profit Before Depreciation,"$2,429,220","$1,766,962","($662,259)",-27.26%
+Expenses,,,,
+Payroll Expenses,,,,
+PAYROLL - BONUS,"$44,647","$44,647",$0,0.0%
+PAYROLL - DOUBLE PAY,$0,"$2,460","$2,460",
+PAYROLL - EMPLOYEE INSURANCE,"$12,317","$12,734",$417,3.38%
+PAYROLL - EVENING PAY,"$1,988","$1,964",($24),-1.21%
+PAYROLL - MONTHLY PAY,"$230,467","$233,014","$2,547",1.1%
+PAYROLL - OVERTIME,"$3,782","$4,034",$252,6.66%
+PAYROLL - REG PAY,"$32,123","$32,506",$383,1.19%
+PAYROLL - SEVERANCE,"$4,518","$14,982","$10,464",231.59%
+PAYROLL - SICK PAY,$0,$48,$48,
+PAYROLL - VACATION PAY,"$5,086","$4,993",($93),-1.82%
+PAYROLL - EMPLOYERS TAXES,"$21,386","$20,372","($1,015)",-4.74%
+TRAINING/FAIRS/SEMINARS/CONFERENCE,$258,$649,$391,151.58%
+PAYROLL -EMPLOYEE BENEFITS,($357),($273),$84,23.6%
+Total Payroll Expenses,"$356,216","$372,130","$15,915",4.47%
+Corporate Expenses,,,,
+VIRTUAL OFFICE,$332,$643,$311,93.74%
+DIRECTOR FEES,"$2,600","$1,000","($1,600)",-61.54%
+Incorporation Fees,$0,$390,$390,
+MAIL FORWARDING,$75,$0,($75),-100.0%
+Total Corporate Expenses,"$3,007","$2,033",($974),-32.4%
+Professional Fees ADMIN,,,,
+PRO FEES - ACCOUNTING and AUDIT,"$15,207","$12,957","($2,250)",-14.8%
+PRO FEES - IMMIGRATION WORK PERMIT,($100),$0,$100,100.0%
+PRO FEES - JOB POSTING,$0,"$1,043","$1,043",
+PROFESSIONAL FEES - LEGAL,"$2,363",$691,"($1,671)",-70.74%
+Total Professional Fees ADMIN,"$17,470","$14,691","($2,779)",-15.91%
+Financial Expenses,,,,
+BANK SERVICE CHARGE,$71,$56,($15),-21.13%
+BANK FEE - HY,"$5,773","$8,030","$2,257",39.1%
+Total Financial Expenses,"$5,844","$8,086","$2,242",38.36%
+Telecommunications ADMIN,,,,
+INTERNET,"$5,944","$5,944",$0,0.0%
+CELL PHONE,"$1,513","$1,236",($276),-18.27%
+TELEPHONE (7402),$592,$591,($2),-0.27%
+TELECOMM-CALL CENTER,"$45,190","$41,678","($3,511)",-7.77%
+Total Telecommunications ADMIN,"$53,238","$49,449","($3,789)",-7.12%
+Office Expenses,,,,
+OFFICE EXP - CLEANING,"$3,244","$3,244",$0,0.0%
+OFFICE EXP - RENT,"$7,652","$15,152","$7,500",98.02%
+OFFICE EXP - REPAIRS AND MAINTENANCE,$0,$343,$343,
+OFFICE EXP - SECURITY,"$4,044","$3,968",($76),-1.88%
+OFFICE EXP - UTILITIES,"$2,302","$2,347",$44,1.93%
+COMPUTER EQUIPMENT EXPENSE (7320),"$2,511",$308,"($2,203)",-87.75%
+EMPLOYEES EVENTS,"$2,050","$21,777","$19,727",962.5%
+Total Office Expenses,"$21,803","$47,138","$25,336",116.21%
+Advertising Expenses,,,,
+CORP - ADVERTISING AND PROMOTION,"$56,280","$34,280","($22,000)",-39.09%
+Admin Expenses,,,,
+INSURANCE,"$9,333","$9,333",$0,0.0%
+DUES AND SUBSCRIPTIONS,"$1,955",$926,"($1,029)",-52.63%
+HUMAN RESOURCES,"$9,018",$0,"($9,018)",-100.0%
+OFFICE SUPPLIES,"$4,820","$3,647","($1,173)",-24.34%
+COURRIER FEES,$81,$341,$260,319.67%
+Total Admin Expenses,"$25,207","$14,247","($10,960)",-43.48%
+Meals & Entertainment Expenses,,,,
+MEALS AND ENTERTAINMENT,"$6,308","$2,607","($3,701)",-58.67%
+EMPLOYEE GIFTS,$78,$38,($40),-51.64%
+TRAVEL HY - MEALS & ENTERTAINMENT,"$13,797","$3,824","($9,973)",-72.29%
+Total Meals & Entertainment Expenses,"$20,183","$6,469","($13,714)",-67.95%
+Travel Expenses,,,,
+RENTED HOUSE,"$6,290","$6,376",$86,1.36%
+TRAVEL HY - AIRFARE,$0,"$1,496","$1,496",
+TRAVEL HY - LODGING,"$3,924",$0,"($3,924)",-100.0%
+TRAVEL HY - GENERAL,"$84,199",$0,"($84,199)",-100.0%
+TRAVEL HY - CAR RENTAL TAXI,"$1,391",$809,($583),-41.89%
+Total Travel Expenses,"$95,804","$8,680","($87,124)",-90.94%
+Vehicle Expenses,,,,
+VEHICLE - LEASE,$766,$766,$0,0.0%
+GAS,$717,$670,($48),-6.63%
+VEHICLE MAINTENANCE,$0,$486,$486,
+Total Vehicle Expenses,"$1,483","$1,921",$438,29.55%
+Total Expenses,"$656,534","$559,124","($97,410)",-14.84%
+Operating Profit Before Depn & Amort.,"$1,772,686","$1,207,838","($564,848)",-31.86%
+Other Expenses,,,,
+Realized FX (Gains) or Losses,,,,
+Realised Currency Gains,"($37,119)","$1,306","$38,425",103.52%
+REALIZED EXCHANGE GAIN OR LOSS,"$3,180","$1,027","($2,153)",-67.71%
+Total Realized FX (Gains) or Losses,"($33,939)","$2,333","$36,271",106.87%
+Unrealized FX (Gains) or Losses,,,,
+Bank Revaluations Forex,"$36,389","($124,936)","($161,324)",-443.34%
+Unrealised Currency Gains,"$40,442","($49,909)","($90,351)",-223.41%
+Total Unrealized FX (Gains) or Losses,"$76,831","($174,845)","($251,675)",-327.57%
+EBITDA,"$1,729,795","$1,380,350","($349,444)",-20.2%
+Total Depreciation & Amortisation,"$16,224","$15,648",($575),-3.55%
+Earnings Before Interest & Tax,"$1,713,571","$1,364,702","($348,869)",-20.36%
+Tax Expenses,,,,
+Corporate Income Tax,,,,
+INCOMES TAXES,"$4,074","$3,497",($577),-14.16%
+Earnings After Tax,"$1,709,497","$1,361,205","($348,292)",-20.37%
+Net Income,"$1,709,497","$1,361,205","($348,292)",-20.37%
